@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://vejario.abril.com.br/wp-content/uploads/2020/09/Maracan%C3%A3-anel-Jose-Guertzenstein-Pixabay.jpg"
     },
     "mandante":{
       "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Pacaembu",
-      "imagem": "TODO"
+      "imagem": "https://conteudo.imguol.com.br/c/noticias/2c/2020/01/24/concessao-do-estadio-pacaembu-imagens-aereas-drone-estadio-municipal-paulo-machado-de-carvalho-1579895255894_v2_3x4.jpg"
     },
     "mandante":{
       "nome": "Brasil",
@@ -36,8 +36,8 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Pacaembu",
-      "imagem": "TODO"
+      "nome": "Wembly",
+      "imagem": "https://www.segurospromo.com.br/blog/wp-content/uploads/2021/05/Estadios-mais-bonitos-do-mundo-wembley.jpg"
     },
     "mandante":{
       "nome": "Alemanha",
@@ -53,8 +53,8 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Pacaembu",
-      "imagem": "TODO"
+      "nome": "Stade Vélodrome",
+      "imagem": "https://www.segurospromo.com.br/blog/wp-content/uploads/2021/05/Estadios-mais-bonitos-do-mundo-stade-velodrome.jpg"
     },
     "mandante":{
       "nome": "Bélgica",
