@@ -32,5 +32,39 @@
       "forca": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
     }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Pacaembu",
+      "imagem": "TODO"
+    },
+    "mandante":{
+      "nome": "Alemanha",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/de.png"
+    },
+    "visitante":{
+      "nome": "Itália",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
+    }
+  },    
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Pacaembu",
+      "imagem": "TODO"
+    },
+    "mandante":{
+      "nome": "Bélgica",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/be.png"
+    },
+    "visitante":{
+      "nome": "Alemanha",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/de.png"
+    }
   }
 ]
